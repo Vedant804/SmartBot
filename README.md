@@ -7,6 +7,10 @@ This repository features a sophisticated chatbot named SmartBot created with Gem
 You can access the deployed chatbot application at the following URL:
 https://smartbot-3.onrender.com/
 
+## Output
+
+https://github.com/user-attachments/assets/6946059e-faf2-4401-92f4-897a6dff2529
+
 ## Table of Contents
 
 - **Features**
